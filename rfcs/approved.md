@@ -1,3 +1,3 @@
 # Approved RFCs
 
-- No RFCs have been approved yet.
+- [RFC-0001: Subgraph composition](./0001-subgraph-composition.md)
